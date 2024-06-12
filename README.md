@@ -31,3 +31,9 @@ understand if the input is appropriate for a given model/context window.
 
 For example, this `README.md` contains at the time of writing of 238 tokens. So
 it fits into a small context window without any problem.
+
+Requirements
+------------
+
+Requires [tiktoken](https://github.com/openai/tiktoken) to be installed.
+For example using `pip install tiktoken`.
